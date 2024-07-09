@@ -1,7 +1,7 @@
 # DIO - Trilha Java Básico
-<a href="https://www.dio.me/" target="_blank">Site:DIO </a>.
+Site: <a href="https://www.dio.me/" target="_blank">DIO</a>
 
-#### Autores
+#### Autor
 - [Matheus Pacheco](https://github.com/matheuspacheco99)
 
 ## Sintaxe - Desafio Terminal Banco
@@ -28,11 +28,10 @@ Exercicio de Sintaxe codificando o seguinte cenário.
 
 ###### Revisão sobre concatenação e classe String com método concat
 
-3. Depois de todas as informações terem sido inseridas, o sistema irá exibir a seguinte mensagem:
+3. Depois que todas as informações terem sido inseridas, o sistema irá exibir a seguinte mensagem:
 
 *"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
 
 Os campos em [ ] serão alterados pelas informações que forem inseridas pelos usuários.
-
 
 
