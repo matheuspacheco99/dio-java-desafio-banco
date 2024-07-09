@@ -28,7 +28,7 @@ Exercicio de Sintaxe codificando o seguinte cenário.
 
 ###### Revisão sobre concatenação e classe String com método concat
 
-3. Depois de todas as informações terem sido inseridas, o sistema irá exibir a seguinte mensagem:
+3. Depois que todas as informações terem sido inseridas, o sistema irá exibir a seguinte mensagem:
 
 *"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
 
