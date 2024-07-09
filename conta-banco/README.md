@@ -1,9 +1,6 @@
 # DIO - Trilha Java Básico
 Site: <a href="https://www.dio.me/" target="_blank">DIO</a>
 
-#### Autores
-- [Matheus Pacheco](https://github.com/matheuspacheco99)
-
 ## Sintaxe - Desafio Terminal Banco
 
 Exercicio de Sintaxe codificando o seguinte cenário.
@@ -33,6 +30,9 @@ Exercicio de Sintaxe codificando o seguinte cenário.
 *"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
 
 Os campos em [ ] serão alterados pelas informações que forem inseridas pelos usuários.
+
+#### Autor
+- [Matheus Pacheco](https://github.com/matheuspacheco99)
 
 
 
