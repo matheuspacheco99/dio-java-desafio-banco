@@ -1,5 +1,5 @@
 # DIO - Trilha Java Básico
-<a href="https://www.dio.me/" target="_blank">Site:DIO </a>.
+Site: <a href="https://www.dio.me/" target="_blank">DIO</a>.
 
 #### Autores
 - [Matheus Pacheco](https://github.com/matheuspacheco99)
